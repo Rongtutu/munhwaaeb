@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.title{
+  height: 40px;
+  width: 100%;
+  position: fixed;
+  text-align: center;
+  background-color: silver;
+}
+
+.cont {
+  padding-top: 40px;
+}

@@ -1,0 +1,20 @@
+{
+	"name": "나만의 앱만들기",
+	"short_name": "구매대행",
+	"icons": [
+		{
+			"src": "./images/rongtutu.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "./images/rongtutu.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#fff",
+	"theme_color": "#fff" 
+}
